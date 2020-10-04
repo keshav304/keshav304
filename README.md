@@ -10,7 +10,7 @@
   
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **Android**
+- 👨🏽‍💻 I’m currently working on **Android and Kotlin**
 - 🌱 I’m currently learning **Javascript**, **Android**, **Django**, **Database Design**
 - 👯 I’m looking to collaborate on <a href="https://github.com/keshav304/Javascript-projects">**Javascript Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/keshav304?tab=repositories">**Github**</a>
