@@ -21,6 +21,9 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Null safety In Kotlin](https://rylexr2678.hashnode.dev/null-safety-in-kotlin)
+- [What is “this” in JavaScript?](https://rylexr2678.hashnode.dev/what-is-this-in-javascript)
+- [Object and Companion object In Kotlin](https://rylexr2678.hashnode.dev/object-and-companion-object-in-kotlin-1)
 <!-- BLOG-POST-LIST:END -->
 
 # Skills:
