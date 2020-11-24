@@ -19,6 +19,10 @@
 - 😄 Pronouns: Web Developer and Android Developer
 - ⚡ Fun fact: I am a History geek
 
+# 📩 Latest Blog Posts 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 # Skills:
 
 **Languages**
