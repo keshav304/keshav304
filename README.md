@@ -10,13 +10,14 @@
   
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **Android and Kotlin**
-- 🌱 I’m currently learning **Javascript**, **Android**, **Django**, **Database Design**
-- 👯 I’m looking to collaborate on <a href="https://github.com/keshav304/Javascript-projects">**Javascript Projects**</a>
+- 👨🏽‍💻 I’m currently working with **MERN Stack**
+- 🌱 I’m currently learning about **Typescript**, **Linux**
+- 👯 I’m looking to collaborate on <a href="https://github.com/keshav304/opp-tracker">**Opportunity Tracker**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/keshav304?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: Keshavjhaa2678@gmail.com
 - 😄 Pronouns: Web Developer and Android Developer
+- 👋  checkout my <a href="https://keshavjha.netlify.app">Portfolio</a>
 - ⚡ Fun fact: I am a History geek
 
 # 📩 Latest Blog Posts 
