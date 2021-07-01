@@ -22,6 +22,7 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
+- [Securing passwords with Bcrypt in Nodejs and MongoDB](https://rylexr2678.hashnode.dev/securing-passwords-with-bcrypt-in-nodejs-and-mongodb)
 - [Null safety In Kotlin](https://rylexr2678.hashnode.dev/null-safety-in-kotlin)
 - [“this” Keyword in JavaScript?](https://rylexr2678.hashnode.dev/this-keyword-in-javascript)
 - [Object and Companion object In Kotlin](https://rylexr2678.hashnode.dev/object-and-companion-object-in-kotlin-1)
