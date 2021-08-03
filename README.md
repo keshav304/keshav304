@@ -22,7 +22,7 @@
 
 # 📩 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
-- [My Mini React Router v5 Documentation](https://rylexr2678.hashnode.dev/my-mini-react-router-v5-documentation)
+- [A guide to using React Router in React apps](https://rylexr2678.hashnode.dev/a-guide-to-using-react-router-in-react-apps)
 - [How to Implement “Sign in with Google” in Your MERN Stack App with JWT](https://rylexr2678.hashnode.dev/how-to-implement-sign-in-with-google-in-your-mern-stack-app-with-jwt)
 - [Securing passwords with Bcrypt in Nodejs and MongoDB](https://rylexr2678.hashnode.dev/securing-passwords-with-bcrypt-in-nodejs-and-mongodb)
 - [Null safety In Kotlin](https://rylexr2678.hashnode.dev/null-safety-in-kotlin)
