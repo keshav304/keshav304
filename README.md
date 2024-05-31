@@ -11,9 +11,6 @@
 # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working with **Javacript**
-- 🌱 I’m currently learning about **Typescript**, **NextJS**
-- 👨‍💻 Some of my projects are available at my <a href="https://github.com/keshav304?tab=repositories">**Github**</a>
-- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: Keshavjhaa2678@gmail.com 
 - 👋  checkout my <a href="https://keshavjha.netlify.app">Portfolio</a>
 - ⚡ Fun fact: I am a History geek
