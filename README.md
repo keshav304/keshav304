@@ -3,8 +3,6 @@
 <a href="https://twitter.com/keshavkumar2678"><img src="https://aleen42.github.io/badges/src/twitter.svg" height=25></a> 
 <a href="https://medium.com/@keshavjhaa2678"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://www.linkedin.com/in/keshavjha007/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<a href="https://www.instagram.com/rylexr/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-<a href="https://stackoverflow.com/users/13107168/keshav-jha"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
   
