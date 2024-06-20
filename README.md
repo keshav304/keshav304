@@ -8,7 +8,6 @@
   
 # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working with **Javacript**
 - 📫 How to reach me: Keshavjhaa2678@gmail.com 
 - 👋  checkout my <a href="https://keshavjha.netlify.app">Portfolio</a>
 - ⚡ Fun fact: I am a History geek
